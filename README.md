@@ -1,22 +1,22 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm RAMA
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/RAMA.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/RAMA/RAMA/main/aris/RAMA.jpg" width="230" height="230"/>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="👾BOTSAD BOY👾" src="https://img.shields.io/badge/SAD BOY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾BOTSAD BOY👾" src="https://img.shields.io/badge/RAMA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RAMA"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
+<a href="https://www.codefactor.io/repository/github/RAMA/RAMA"><img title="Rating" src="https://www.codefactor.io/repository/github/RAMA/RAMAbadge/main"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
+<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAMA?color=blue&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
@@ -28,7 +28,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 SADBOY
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -65,7 +65,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾SAD BOY👾`](https://saweria.co/aris187id)
+* [`Donasi 👾SAD BOY👾`]
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
